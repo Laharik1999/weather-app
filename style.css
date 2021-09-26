@@ -5,7 +5,11 @@
 }
 body{
     height: 100px;
-    background-color: #eeea17;
+    background-image: url('https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/27-08-2021_WMO_extreme-weather.jpg/image1440x560cropped.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+   
 }
 
 #search-form
@@ -64,14 +68,13 @@ main{
 
     padding: 20px;
     margin-top: 10px;
-    background-color: #6b778d;
-    border-radius: 20px;
+    
     width: 360px;
     height: 360px;
     display: block;
     margin-left: auto;
     margin-right: auto;
-    box-shadow: 10px 10px 20px 10px rgba(112, 102, 102, 0.2);
+    
 
 }
 
